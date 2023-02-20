@@ -87,25 +87,23 @@
     
 - **After push two commits:**
 
-https://www.notion.so/task-1-1250b2505e96420a899c4ecffabeb81d?pvs=4#0dcbfd70d1fb4d51829ad2c2a8a59f9f
+    ![Image 1](./Images/image1.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9921a311-e438-4bf7-999f-32438a6be053/Untitled.png)
+    ![Image 2](./Images/image2.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bd6e02a-132e-42f0-8e10-01edf4e07a65/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7995d814-001c-485c-816b-0ec1e3e7a91a/Untitled.png)
+    ![Image 3](./Images/image3.png)
 
 - **Compare and generate pull request to master branch:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5df94768-7e35-460f-9e1b-5f3bc68799ca/Untitled.png)
+    ![Image 4](./Images/image4.png)
 
 - **Merging pull request of : feature → master**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a4e8c05-2e85-42cb-9a04-bd47bd5ac3bf/Untitled.png)
+    ![Image 5](./Images/image5.png)
     
 - **After merging commits in master branch:**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcb1599a-7b91-4816-94bc-b00cac9c6525/Untitled.png)
+    ![Image 6](./Images/image6.png)
     
 - **Terminal:**
     
@@ -208,12 +206,12 @@ https://www.notion.so/task-1-1250b2505e96420a899c4ecffabeb81d?pvs=4#0dcbfd70d1fb
     
 - **On master branch github:**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fabcd65e-08d5-4da0-a258-0bcb129d366d/Untitled.png)
+    ![Image 7](./Images/image7.png)
     
     - **Sequence in master → c1 ← c2 ← f1 ← f2 ← c3 ← c4.**
 - **On feature branch github:**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9c6a8f3-f310-450b-8189-0bbbaf62c33e/Untitled.png)
+    ![Image 8](./Images/image8.png)
     
 
 ### 3. Change commit message
@@ -288,7 +286,7 @@ https://www.notion.so/task-1-1250b2505e96420a899c4ecffabeb81d?pvs=4#0dcbfd70d1fb
     
 - **On master branch github: New commit added f4**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f059848-750a-4494-b7d5-ddf09767520d/Untitled.png)
+    ![Image 9](./Images/image9.png)
     
 
 ### 5. Drop commit
